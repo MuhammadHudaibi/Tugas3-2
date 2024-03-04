@@ -162,7 +162,7 @@ class _RecipePageState extends State<RecipePage> {
                 onPressed: () {
                 },
                 child: Text(
-                  'Submit Order',
+                  'Add Menu',
                   style: TextStyle(
                     color: Colors.white
                   ),
